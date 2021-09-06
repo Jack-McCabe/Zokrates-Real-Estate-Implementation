@@ -1,5 +1,5 @@
 
-/*
+
 var ERC721MintableComplete = artifacts.require('DecentralizedHousingLedger');
 
 contract('DecentralizedHousingLedger', accounts => {
@@ -90,4 +90,3 @@ contract('DecentralizedHousingLedger', accounts => {
     });
 })
 
-*/
