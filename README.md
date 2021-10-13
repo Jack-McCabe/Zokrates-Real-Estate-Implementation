@@ -22,6 +22,8 @@ Account that deployed the contract, 0xB27b97BCbD6F1c30E65fa7A82f37306aD5fCc820
 
 OpenSeas link https://testnets.opensea.io/collection/unidentified-contract-xwsemf4aro
 
+ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
+
 The contract ABI of SonSquareVerifier is below: 
 [
     {
