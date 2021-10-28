@@ -1,7 +1,9 @@
 This is a contract that allows you to buy and sell houses on the Open Seas market place. 
 
 
+You can view the contract on the OpenSeas Marketplace, https://testnets.opensea.io/collection/unidentified-contract-xwsemf4aro, I purchased a few houses via another address on https://testnets.opensea.io/Jack_McCabe.
 
+If you want to run the code
 
 To test the project run the command 
 1. Open Ganache and connect to server HTTP://127.0.0.1:9545 with a network id of 5777
@@ -24,7 +26,12 @@ OpenSeas link https://testnets.opensea.io/collection/unidentified-contract-xwsem
 
 ganache-cli -m "spirit supply whale amount human item harsh scare congress discover talent hamster"
 
-The contract ABI of SonSquareVerifier is below: 
+The contract ABI of SonSquareVerifier is below:
+
+
+
+
+
 [
     {
       "inputs": [
